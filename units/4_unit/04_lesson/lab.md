@@ -3,6 +3,10 @@
 ## Part 1
 The goal of this lab is to practice using and accessing items from lists of lists. 
 
+Here's a [scaffold of the program][1] with all the interesting bits left for you to write (we've taken care of the boring bits)
+
+[1]: https://repl.it/@davidrhmiller/TEALS2018-Lab-404-Shopping-List-scaffolding
+
 You have a few errands to run and have created a few shopping list to help you remember what to buy. You stored your notes in a nested list, `shopping_cart`. 
 This program will allow the user to ask for a specific item by it's index or update what items are in the cart. The user can request you `print all` the items in a specific shopping list.
 
